@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there I am Philipp aka Broxy 👋
+
+- 🔭 I’m currently working on my first flutter app
+- 🌱 I’m currently learning Dart
+- 💬 Ask me about
+
 
 <!--
 **BranchBroxy/BranchBroxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

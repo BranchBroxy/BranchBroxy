@@ -2,14 +2,17 @@
 
 - 🔭 I’m currently working on my first flutter app
 - 🌱 I’m currently learning Dart
-- 💬 Ask me about
+- 💬 Ask me about anything
+
 
 
 <!--
 **BranchBroxy/BranchBroxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 📫 How to reach me: Email: n.neuhaeusel@gmail.com | LinkedIn: https://www.linkedin.com/in/nils-neuh%C3%A4usel-050763169/
+computer VentureLab: nils.neuhaeusel@venture-lab.de | nils.neuhaeusel.venturelab@gmail.com
+zap Fun fact: I love setting PRs in the gym.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

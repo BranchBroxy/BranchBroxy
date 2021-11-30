@@ -1,7 +1,7 @@
 ### Hi there I am Philipp aka Broxy 👋
 
-- 🔭 I’m currently working on my first flutter app
-- 🌱 I’m currently learning Dart
+- 🔭 My favorite Language is Python
+- 🌱 I’d love to learn Julia
 - 💬 Ask me about anything
 
 
